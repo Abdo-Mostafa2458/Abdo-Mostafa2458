@@ -98,19 +98,19 @@
 ## 🚀 <b>Featured Projects</b>
 
 ### 🛒 E-Commerce App
-- Modern shopping application with responsive UI
-- Firebase Authentication & product management
-- Built using Flutter & Clean Architecture
+- Flutter app with Firebase authentication
+- Product management & clean UI
+- Built using Clean Architecture
 
 ### 📖 Islami App
-- Islamic app with Quran, Azkar & Localization support
-- Supports Arabic & English languages
-- Smooth and user-friendly design
+- Quran & Azkar app
+- Arabic & English localization
+- Smooth UI and offline support
 
 ### ✅ To Do App
-- Task management application
+- Task manager app
 - Local storage using Shared Preferences
-- Clean UI with state management
+- Simple and fast UI
 
 <br>
 
@@ -151,7 +151,7 @@
 </li>
 
 <li>
-<a href="mailto:abdomostafa2458@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdomostafa2458@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </li>
@@ -167,5 +167,3 @@
 </div>
 
 ---
-
-<br>
