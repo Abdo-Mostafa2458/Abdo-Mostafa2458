@@ -145,13 +145,13 @@
 <ul>
 
 <li>
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.linkedin.com/in/abdo-mostafa-7a198421a/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </li>
 
 <li>
-<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+<a href="mailto:abdomostafa2458@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </li>
